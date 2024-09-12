@@ -1,0 +1,9 @@
+[package]
+name = "ovmf"
+authors = ["The VirTEE Project Developers"]
+description = "Open Virtual Machine Firmware (OVMF) parsing library"
+license = "Apache-2.0"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
